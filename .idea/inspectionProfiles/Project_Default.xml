@@ -1,0 +1,35 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="cv2.destroyAllWindows" />
+          <option value="cv2.waitKey" />
+          <option value="cv2.imshow" />
+          <option value="cv2.imdecode" />
+          <option value="cv2.imwrite" />
+          <option value="cv2.cvtColor" />
+          <option value="cv2.COLOR_BGR2GRAY" />
+          <option value="cv2.imread" />
+          <option value="cv2.fastNlMeansDenoisingColored" />
+          <option value="cv2.GaussianBlur" />
+          <option value="cv2.Canny" />
+          <option value="cv2.CascadeClassifier" />
+          <option value="cv2.rectangle" />
+          <option value="cv2.resize" />
+          <option value="cv2.bilateralFilter" />
+          <option value="cv2.bitwise_and" />
+          <option value="cv2.THRESH_BINARY" />
+          <option value="cv2.ADAPTIVE_THRESH_MEAN_C" />
+          <option value="cv2.adaptiveThreshold" />
+          <option value="cv2.medianBlur" />
+          <option value="cv2.divide" />
+          <option value="cv2.bitwise_not" />
+          <option value="cv2.createTrackbar" />
+          <option value="cv2.namedWindow" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
